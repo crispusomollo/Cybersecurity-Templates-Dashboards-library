@@ -31,6 +31,8 @@ cd cybersecurity-templates-dashboards
 pip install -r requirements.txt
 ```
 
+---
+
 ## ▶️ Usage
 
 Run the generator script:
@@ -45,6 +47,8 @@ This will create a folder and ZIP archive:
 Cybersecurity_Templates_&_Dashboards/
 Cybersecurity_Templates_&_Dashboards.zip
 ```
+
+---
 
 ## 📊 Output Example
 
@@ -64,6 +68,8 @@ Cybersecurity_Executive_Summary.docx
 Supporting_Files/export_summary.csv
 ```
 
+---
+
 ## 🧩 Requirements
 
 - Python 3.9+
@@ -71,6 +77,8 @@ Supporting_Files/export_summary.csv
 - openpyxl
 - python-docx
 - tqdm
+
+---
 
 ## 📜 License
 
