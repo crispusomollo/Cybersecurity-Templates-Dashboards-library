@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Templates & Dashboards Exporter
+# 🛡️ Cybersecurity Templates and Dashboards Exporter
 
 This project automatically generates Cybersecurity documentation and dashboards across all security lifecycle phases.  
 It includes ready-made `.docx`, `.xlsx`, and `.csv` templates — complete with sample data, charts, and an executive summary.
