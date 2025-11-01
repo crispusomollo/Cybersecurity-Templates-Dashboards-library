@@ -1,0 +1,13 @@
+__pycache__/
+*.zip
+*.xlsx
+*.csv
+*.docx
+*.log
+Cybersecurity_Templates_&_Dashboards/
+Supporting_Files/
+*.bak
+*.tmp
+.DS_Store
+.env
+
