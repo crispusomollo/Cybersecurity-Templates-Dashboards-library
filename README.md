@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Templates & Dashboards Exporter
 
-This project automatically generates **Cybersecurity documentation and dashboards** across all security lifecycle phases.  
+This project automatically generates Cybersecurity documentation and dashboards across all security lifecycle phases.  
 It includes ready-made `.docx`, `.xlsx`, and `.csv` templates — complete with sample data, charts, and an executive summary.
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
