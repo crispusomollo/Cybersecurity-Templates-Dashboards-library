@@ -87,5 +87,6 @@ Supporting_Files/export_summary.csv
 ## 📜 License
 
 MIT License © 2025 Crispus Omollo
+
 Feel free to use, modify, and distribute.
 
